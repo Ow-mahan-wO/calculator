@@ -8,7 +8,6 @@ Languages ​​used in this exercise
 
 - html
 - css
-- 
--Java Script
+- Java Script
 
 GitHub page link:
